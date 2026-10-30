@@ -119,11 +119,13 @@ For now, you can browse everything I’ve made in my [GitHub repositories](https
 ### My contribution year, in 3D
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green.svg" alt="Jiro's 3D GitHub contribution calendar" width="100%" />
+  <a href="https://github.com/jiro-scopee-dev/jiro-scopee-dev/actions/workflows/profile-3d-contrib.yml">
+    <img src="https://img.shields.io/badge/3D_contribution_calendar-Run_GitHub_Action-4F8CF7?style=for-the-badge&logo=github&logoColor=white" alt="Run the 3D contribution calendar workflow" />
+  </a>
 </p>
 
 <p align="center">
-  <i>This visual updates automatically through GitHub Actions.</i>
+  <i>The 3D calendar will appear here after the workflow runs and commits its generated SVG.</i>
 </p>
 
 ### Let's connect
