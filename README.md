@@ -75,12 +75,16 @@ For now, you can browse everything I’ve made in my [GitHub repositories](https
 ### GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiro-scopee-dev&show_icons=true&hide_border=true&theme=dark" alt="Jiro's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiro-scopee-dev&layout=compact&hide_border=true&theme=dark" alt="Jiro's most used languages" />
+  <a href="https://github.com/jiro-scopee-dev?tab=repositories">
+    <img src="https://img.shields.io/badge/View_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Jiro's repositories" />
+  </a>
+  <a href="https://github.com/jiro-scopee-dev?tab=overview">
+    <img src="https://img.shields.io/badge/View_GitHub_activity-4F8CF7?style=for-the-badge&logo=github&logoColor=white" alt="View Jiro's GitHub activity" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=jiro-scopee-dev&bg_color=1a1b27&color=4F8CF7&line=4F8CF7&point=8F9BB3&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Jiro's GitHub contribution graph" width="100%" />
+  <i>My GitHub profile is the most accurate place to see my live contributions and project activity.</i>
 </p>
 
 ### Let's connect
