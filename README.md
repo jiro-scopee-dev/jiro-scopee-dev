@@ -116,6 +116,16 @@ For now, you can browse everything I’ve made in my [GitHub repositories](https
   <i>My GitHub profile is the most accurate place to see my live contributions and project activity.</i>
 </p>
 
+### My contribution year, in 3D
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green.svg" alt="Jiro's 3D GitHub contribution calendar" width="100%" />
+</p>
+
+<p align="center">
+  <i>This visual updates automatically through GitHub Actions.</i>
+</p>
+
 ### Let's connect
 
 - [GitHub](https://github.com/jiro-scopee-dev)
