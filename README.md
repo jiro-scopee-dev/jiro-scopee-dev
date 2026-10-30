@@ -1,8 +1,17 @@
-## Hey, I'm Jiro 👋
+<div align="center">
+
+# Jiro Scopee 👋
+
+### Full-Stack Developer · UI/UX Enthusiast · Builder in progress
 
 **Eat 🍜 | Code 💻 | Design 🎨 | Learn 📚 | Repeat 🔁**
 
 I'm a full-stack developer who likes building things that feel simple, useful, and easy to come back to. I enjoy the messy part too, turning a rough idea into something people can actually use.
+
+[![GitHub](https://img.shields.io/badge/GitHub-jiro--scopee--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiro-scopee-dev)
+[![Repositories](https://img.shields.io/badge/Repositories-View_projects-4F8CF7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiro-scopee-dev?tab=repositories)
+
+</div>
 
 Right now, I'm building my project portfolio around practical web apps, polished interfaces, and the backend systems that make them work. My repositories are where I keep the experiments, progress, and finished work.
 
@@ -47,14 +56,34 @@ I don't have a public portfolio, blog, newsletter, or open-source product to sha
 
 My public project list is still growing. I’m working on projects that show the full process, from the first idea and interface to the code, data, and deployment behind it.
 
-For now, you can browse everything I’ve made in my [GitHub repositories](https://github.com/jiro-scopee-dev?tab=repositories).
+For now, you can browse everything I’ve made in my [GitHub repositories](https://github.com/jiro-scopee-dev?tab=repositories). The project wall below shows what I’m building toward.
 
-| Area | Status |
-| --- | --- |
-| Full-stack web apps | Building and improving |
-| UI and UX experiments | In progress |
-| Rust projects | Learning phase |
-| Open-source contributions | Looking for the right place to start |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌐 Full-Stack Apps</h3>
+      <p>Building practical products from interface to backend.</p>
+      <img src="https://img.shields.io/badge/Status-In_progress-4F8CF7?style=for-the-badge" alt="Full-stack apps in progress" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🎨 UI/UX Experiments</h3>
+      <p>Exploring layouts, interactions, and better user flows.</p>
+      <img src="https://img.shields.io/badge/Status-Always_improving-8F9BB3?style=for-the-badge" alt="UI and UX always improving" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🦀 Rust Projects</h3>
+      <p>Learning the language by making small, useful things.</p>
+      <img src="https://img.shields.io/badge/Status-Learning-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust learning" />
+    </td>
+    <td align="center">
+      <h3>🤝 Open Source</h3>
+      <p>Looking for the right project to contribute to.</p>
+      <img src="https://img.shields.io/badge/Status-Coming_soon-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open source coming soon" />
+    </td>
+  </tr>
+</table>
 
 ### Things I want to get better at
 
